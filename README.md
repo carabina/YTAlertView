@@ -42,7 +42,7 @@ YTAlertView *alertView = [[YTAlertView alloc] initWithTitle:@"title" message:@"m
 
 Demo:
 ----
-![YTAlertView](https://github.com/songyutao/YTAlertView/blob/master/YTAlertView/TestYTAlertView/YTAlertView.gif)
+![YTAlertView](https://github.com/songyutao/YTAlertView/blob/master/YTAlertView/TestYTAlertView/alertview.gif)
 
 
 
