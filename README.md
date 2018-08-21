@@ -1,6 +1,10 @@
 # YTAlertView
 A custom AlertView, support appearance ui and custom view, replacing target with block processing.
 
+
+## About Error
+When there is a `'sharedApplication' is unavailable: not available on iOS (App Extension)` error prompt, please set the `Require Only App-Extension-Safe API` in buildSettings to `NO` on.
+
 Appearance UI
 ----
 ```
